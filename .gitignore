@@ -67,6 +67,10 @@ out
 gen### Java template
 *.class
 
+#gradle generated files
+build
+.gradle
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
